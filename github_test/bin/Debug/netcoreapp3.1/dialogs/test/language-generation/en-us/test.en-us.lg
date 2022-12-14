@@ -1,0 +1,9 @@
+[import](common.lg)
+
+# SendActivity_F3mcn0()
+[Activity
+    Text = ${SendActivity_F3mcn0_text()}
+]
+
+# SendActivity_F3mcn0_text()
+- Welcome to test dialog
